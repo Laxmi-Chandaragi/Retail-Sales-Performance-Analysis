@@ -1,1 +1,2 @@
-# Retail-Sales-Performance-Analysis
+# Retail-Sales-Performance-Analysis:
+A retail company wants to improve its sales performance by understanding customer purchasing patterns, product category performance, regional sales trends, and the impact of discounts on profitability. The goal of this project is to analyze retail transaction data using Python to identify revenue drivers, evaluate profit trends, detect high-performing categories and regions, and uncover actionable insights that can support data-driven decision-making in pricing, inventory planning, and marketing strategy.
